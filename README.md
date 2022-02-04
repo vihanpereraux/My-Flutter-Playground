@@ -1,4 +1,4 @@
-# initial_project
+# My Flutter Playground !
 
 A new Flutter project.
 
